@@ -1,0 +1,14 @@
+.tos-wrap{
+    text-align: center;
+    font-size: var(--size-2xl);
+}
+
+.tos-elements {
+    display: inline-block;
+    text-align: left;
+
+}
+.tos-section {
+    text-align: center;
+    color: var(--accent);
+}
