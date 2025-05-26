@@ -4,7 +4,7 @@ export default defineConfig({
   build: {
     rollupOptions: {
       input: {
-        main: 'home.html',
+        main: 'index.html',
         commmission: 'commission.html',
         tos: 'tos.html',
       }
