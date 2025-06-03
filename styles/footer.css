@@ -1,0 +1,15 @@
+.footer {
+    /* display: flex; */
+    /* flex-direction: column; */
+     text-align: center;
+  text-transform: uppercase;
+  margin-bottom: 2em;
+  /* padding-bottom: 5em; */
+}
+
+.socials {
+    padding-top: 1em;
+    display: flex;
+    justify-content: center;
+    gap: 2rem;
+}
