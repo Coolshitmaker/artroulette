@@ -12,3 +12,6 @@
     text-align: center;
     color: var(--accent);
 }
+.tos-filler {
+    padding-top: 2em;
+}
